@@ -49,6 +49,6 @@ header:
       # @end locale config
     url: /about.html
   
-  - titles:
-      en      : &EN       Test Category
-    url: /test_cat.html
+  # - titles:
+  #     en      : &EN       Test Category
+  #   url: /test_cat.html
