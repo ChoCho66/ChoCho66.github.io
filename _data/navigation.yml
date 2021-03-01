@@ -48,7 +48,4 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
-  
-  # - titles:
-  #     en      : &EN       Test Category
-  #   url: /test_cat.html
+ 
